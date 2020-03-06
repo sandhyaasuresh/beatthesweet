@@ -124,7 +124,7 @@ public class MainActivity extends AppCompatActivity {
             mGoogleSignInClient.signOut().addOnCompleteListener(this, new OnCompleteListener<Void>() {
                 @Override
                 public void onComplete(@NonNull Task<Void> task) {
-                    Toast.makeText(MainActivity.this, "Logged out", Toast.LENGTH_SHORT).show();
+                    Log.d(TAG, "Logged Out Successfullly");
                 }
             });
 //            findViewById(R.id.signOutAndDisconnect).setVisibility(View.GONE);
