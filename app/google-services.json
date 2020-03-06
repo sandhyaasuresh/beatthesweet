@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "125873752907",
+    "firebase_url": "https://beatthesweet-5414b.firebaseio.com",
+    "project_id": "beatthesweet-5414b",
+    "storage_bucket": "beatthesweet-5414b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:125873752907:android:e35fdaa9ff9c82134976ce",
+        "android_client_info": {
+          "package_name": "app.mad.beatthesweet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "125873752907-392klfp4mqfr9sqgtsror4ai9b36cu4e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.mad.beatthesweet",
+            "certificate_hash": "452b07da50ec68b3b2aa91ecdf217ee552608ddd"
+          }
+        },
+        {
+          "client_id": "125873752907-37to65vi2tr1gsg4hm8o0l30g583m0jn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAfGL_hNBbZG9RPhaG69qTocKZGiQXGkk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "125873752907-37to65vi2tr1gsg4hm8o0l30g583m0jn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
